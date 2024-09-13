@@ -7,4 +7,5 @@ These are some of the commands we learnt
 #### commands learnt
 Clonnig,dir,cls,cd desktop
 ```
+ l
 
